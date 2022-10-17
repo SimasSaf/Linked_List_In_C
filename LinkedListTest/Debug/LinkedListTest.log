@@ -1,0 +1,14 @@
+﻿  linkedList.c
+C:\ESW1\VS code stuff\LinkedList\LinkedList\linkedList.c(17,32): warning C4013: 'malloc' undefined; assuming extern returning int
+C:\ESW1\VS code stuff\LinkedList\LinkedList\linkedList.c(17,1): warning C4047: 'initializing': 'linkedList_t' differs in levels of indirection from 'int'
+C:\ESW1\VS code stuff\LinkedList\LinkedList\linkedList.c(34,1): warning C4047: 'initializing': 'linkedList_node *' differs in levels of indirection from 'int'
+C:\ESW1\VS code stuff\LinkedList\LinkedList\linkedList.c(51,1): warning C4047: 'initializing': 'linkedList_node *' differs in levels of indirection from 'int'
+C:\ESW1\VS code stuff\LinkedList\LinkedList\linkedList.c(88,45): warning C4047: 'return': 'void *' differs in levels of indirection from 'int'
+C:\ESW1\VS code stuff\LinkedList\LinkedList\linkedList.c(96,23): warning C4047: 'return': 'void *' differs in levels of indirection from 'int'
+C:\ESW1\VS code stuff\LinkedList\LinkedList\linkedList.c(106,30): warning C4047: 'return': 'void *' differs in levels of indirection from 'int'
+C:\ESW1\VS code stuff\LinkedList\LinkedList\linkedList.c(91,1): warning C4047: 'initializing': 'linkedList_node *' differs in levels of indirection from 'int'
+C:\ESW1\VS code stuff\LinkedList\LinkedList\linkedList.c(124,3): warning C4013: 'free' undefined; assuming extern returning int
+C:\ESW1\VS code stuff\LinkedList\LinkedList\linkedList.c(115,1): warning C4047: 'initializing': 'linkedList_node *' differs in levels of indirection from 'int'
+C:\ESW1\VS code stuff\LinkedList\LinkedList\linkedList.c(118,1): warning C4047: 'initializing': 'linkedList_node *' differs in levels of indirection from 'int'
+C:\ESW1\VS code stuff\LinkedList\LinkedList\linkedList.c(138,1): warning C4047: 'initializing': 'linkedList_node *' differs in levels of indirection from 'int'
+  LinkedListTest.vcxproj -> C:\ESW1\VS code stuff\LinkedList\Debug\LinkedListTest.exe
